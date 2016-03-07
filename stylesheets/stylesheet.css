@@ -2,13 +2,13 @@
   box-sizing: border-box; }
 
 body {
-  background-color:#FFD9DB;
+  background-color#FFD9DB
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color:#D5B8FF; }
 
 a {
   color: #1e6bb8;
